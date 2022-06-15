@@ -16,8 +16,11 @@
 | Pet Projects |
 | :------: | 
 
- | App Description  | Status |Github |Features Description |    State Management  | Deployment Link(If Any)
- | :------: | :------: | :------: | :------: | :------: |  :------: |
-| CTRL Fitness Investment App | Stopped | https://github.com/Mrkewl/CTRL | Flavor with dev/prod env, Firebase Database integration |  GetX  | Nil
-| Cat-Dog Classifyer | Done | https://github.com/Mrkewl/Cat-Dog-Classifyer | AI Application With TensorFlow and Flutter Integration |  Nil|  Nil
-| Cat-Dog Classifyer | Done | https://github.com/Mrkewl/Cat-Dog-Classifyer | AI Application With TensorFlow and Flutter Integration |  Nil|  Nil
+ | App Description  | Status |Github |Features Description |    State Management  | Deployment Link(If Any)  | Remarks
+ | :------: | :------: | :------: | :------: | :------: |  :------: | :------: |
+ | Mobile Portfolio | Done | https://github.com/Mrkewl/dart-portfolio | FullStack portfolio Flutter-Django-Docker-Aws-EC2-RDS-PostgreSql  | RiverPod  | Took Down Due to cost in Aws | Nil
+ | Novade Copy to impress interviewers| Done | https://github.com/Mrkewl/novade-interview | Flutter-django Application with launch url and exact 1-to-1 copy of website with linkedin recommendation conencted to postgreSQL |  Provider  | Nil | It was built to present and impress interviewers
+| CTRL Fitness Investment App | Stopped | https://github.com/Mrkewl/CTRL | Flavor with dev/prod env, Firebase Database integration |  GetX  | Nil | Nil
+| Cat-Dog Classifyer | Done | https://github.com/Mrkewl/Cat-Dog-Classifyer | AI Application With TensorFlow and Flutter Integration |  Nil|  Nil | Early Days of learning
+| Calorie Counter | Done | https://github.com/Mrkewl/CalorieCounter | Calorie Counter using public api to track calories daily |  Provider|  Nil | Early Days of learning
+| Adult eating behaviour Questionaire | Done | https://github.com/Mrkewl/adult_eating_behaviour_questionaire | Using classes and rendering on screen |  Nil |  Nil | Early Days of learning
