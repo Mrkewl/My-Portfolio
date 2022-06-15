@@ -54,5 +54,5 @@
 | Name | Feature | Github/Link | Remarks | Status |
 | :------: | :------: | :------: |:------: |:------: |
 | Django Api for GAI GAI | Get Request with Mysql database  | https://play.google.com/store/apps/details?id=com.gaigai.android | Professional | Done |
-| Django Api for portfolio | Get Request with PostgreSQL,DJANGO REST API,Docker,AWS,EC2,ECS  | https://github.com/Mrkewl/django-blog | Portfolio | Done |
+| Django Api for portfolio | Get Request with PostgreSQL,DJANGO REST API,Docker,AWS,EC2,ECS  | https://github.com/Mrkewl/django-portfolio | Portfolio | Done |
 | Django Blog | Templating,Models, forms,views,CRUD  | https://github.com/Mrkewl/django-blog |Learning | Done |
