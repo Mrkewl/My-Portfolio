@@ -42,6 +42,7 @@
 
 | Name | Feature | Github/Link | Remarks | Status |
 | :------: | :------: | :------: |:------: |:------: |
+| React/NextJS | MongoDb Integration/CRUD/Vercel Deployment/Redux | https://nextjs-course-demo-bice-two.vercel.app/ | Learning |Done |
 | React Test | Unit/Mock Test | https://github.com/Mrkewl/react-test/tree/main | Learning |Done |
 | React Quotes App | Firebase deployment,Component, Portals,Hooks, LazyLoading, Http Create and Read, Routers | https://react-http-4b448.firebaseapp.com/quotes |Learning | Done |
 | Food App | Hooks, Components, http Request, portals,CRUD | https://github.com/Mrkewl/react-food-app |Learning | Done |
