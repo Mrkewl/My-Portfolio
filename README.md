@@ -4,6 +4,9 @@
 | :------: | :------:  |
 | IAC | Terraform |
 
+| Name     |                        Description            |         Services Used       |       Git       |
+| :------: | :------:  | :------: | :------:  |
+Capstone AWS | building 2 tier architecture with AWS/Terraform  |   ALB, Private Subnet, NAT gateway, MYSQL RDS, Bastion Host, CloudTrail Logs,S3, Bash,EC2      | https://github.com/Mrkewl/-awsterraform-capstone/tree/master
 
 
 | Language | Framework |
