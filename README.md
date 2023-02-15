@@ -6,8 +6,8 @@
 
 | Name     |                        Description            |         Services Used       |       Git       |
 | :------: | :------:  | :------: | :------:  |
-Capstone AWS | building 2 tier architecture with AWS/Terraform  |   ALB, Private Subnet, NAT gateway, MYSQL RDS, Bastion Host, CloudTrail Logs,S3, Bash,EC2      | https://github.com/Mrkewl/-awsterraform-capstone/tree/master
-
+Capstone AWS | building 2 tier architecture with AWS/Terraform  |   ALB, Private Subnet, NAT gateway, MYSQL RDS, Bastion Host, CloudTrail Logs,S3, Bash,EC2,Linux      | https://github.com/Mrkewl/-awsterraform-capstone/tree/master
+Dev Ops Interview Assignment | Terraform, AWS, CICD  |   ALB, Private Subnet, NAT gateway, , Autoscaling Group, Lambda, Javascript, CloudTrail Logs,S3, Bash,EC2,gitlab-ci, Autoscaling instance refresh, Terraform,Linux      |https://github.com/Mrkewl/aws-assignment
 
 | Language | Framework |
 | :------: | :------:  |
